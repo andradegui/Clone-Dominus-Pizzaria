@@ -36,7 +36,27 @@ header {
 }
 
 .tamanho-max {
-    max-width: 960px;
+    max-width: 940px;
 }
+
+.img-favoritas {
+    max-width: 920px;
+}
+
+footer {
+    height: 150px;
+}
+
+.bg-footer {
+    background: #b6b6b6;
+}
+
+.color{
+    color:#848484 ;
+}
+
+
+
+
 
  

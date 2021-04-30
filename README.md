@@ -30,3 +30,6 @@ são as 3 listras do toogle
 
 - collapse navbar-collapse
 classe para ser seguida para o botão aparecer no site
+
+- nav-link
+classe usada para tirar formatação de links
